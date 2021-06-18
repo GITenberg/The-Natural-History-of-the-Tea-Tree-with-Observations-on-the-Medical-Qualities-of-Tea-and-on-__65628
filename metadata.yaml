@@ -1,11 +1,16 @@
 _repo: The-Natural-History-of-the-Tea-Tree-with-Observations-on-the-Medical-Qualities-of-Tea-and-on-__65628
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65628-h/images/cover.jpg
 creator:
   author:
     agent_name: Lettsom, John Coakley
     gutenberg_agent_id: '53437'
     url: http://www.gutenberg.org/2009/agents/53437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65628#The-Natural-History-of-the-Tea-Tree-with-Observations-on-the-Medical-Qualities-of-Tea-and-on-_
 gutenberg_issued: '2021-06-16'
 gutenberg_type: Text
 identifiers:
